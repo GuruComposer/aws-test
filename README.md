@@ -1,6 +1,6 @@
 # aws-test
 Testing deployment of website to AWS.
 
-This website is deployed on an AWS server.
+Put your name as the last URL parameter to be greeted by the website.
 
-Here is the link: http://ec2-3-16-186-180.us-east-2.compute.amazonaws.com/hello/%22Your_name_here%22
+Live link here: http://ec2-3-16-186-180.us-east-2.compute.amazonaws.com/hello/%22Your_name_here%22
